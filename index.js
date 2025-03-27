@@ -135,4 +135,4 @@ class Game {
     }
 }
 
-new Gehmasse(10 ** 6, 2);
+new Gehmasse(10 ** 3, 2);
